@@ -26,30 +26,17 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,figma" />
 </p>
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohsin-dev&show_icons=true&theme=radical&hide_border=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsin-dev&theme=radical&hide_border=true" />
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsin-dev&theme=radical" />
-</p>
-
----
 
 ## 🌍 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/itsengrmohsin/">
+  <a href="https://www.linkedin.com/in/itsengrmohsinahmad/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/itsengrmohsin">
+  <a href="https://github.com/itsengrmohsinahmad">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:engineermohsinashfaq@email.com">
+  <a href="mailto:itsengrmohsinahmad@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
