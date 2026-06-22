@@ -16,7 +16,7 @@
 ## 💼 Experience  
 
 🔹 **MERN Stack Developer Intern** – IT Artificier (3 Months)  
-🔹 **Web Development Intern** – Abasyn University (2 Months)  
+🔹 **Mobile Applications Developer Intern** – Abasyn University (3 Months)  
 
 ---
 
