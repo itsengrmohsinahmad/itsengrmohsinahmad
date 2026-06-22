@@ -15,10 +15,10 @@
 
 ## 💼 Experience  
 
-🔹 **MERN Stack Developer Intern** – IT Artificier  
-🔹 **Mobile Applications Developer Intern** – Abasyn University 
-🔹 **IT Support Technician** – Jani Copier Peshawar 
-🔹 **Administrative Assistant** – Hamid Composing Center  
+🔹 **MERN Stack Developer Intern** – IT Artificier  </br>
+🔹 **Mobile Applications Developer Intern** – Abasyn University </br>
+🔹 **IT Support Technician** – Jani Copier Peshawar </br>
+🔹 **Administrative Assistant** – Hamid Composing Center  </br>
 
 ---
 
