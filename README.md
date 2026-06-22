@@ -15,8 +15,10 @@
 
 ## 💼 Experience  
 
-🔹 **MERN Stack Developer Intern** – IT Artificier (3 Months)  
-🔹 **Mobile Applications Developer Intern** – Abasyn University (3 Months)  
+🔹 **MERN Stack Developer Intern** – IT Artificier  
+🔹 **Mobile Applications Developer Intern** – Abasyn University 
+🔹 **IT Support Technician** – Jani Copier Peshawar 
+🔹 **Administrative Assistant** – Hamid Composing Center  
 
 ---
 
